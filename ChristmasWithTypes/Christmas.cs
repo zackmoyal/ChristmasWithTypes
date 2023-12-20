@@ -13,7 +13,8 @@ namespace ChristmasWithTypes
                           Tuesday,
                           Wednesday,
                           Thursday,
-                          Friday
+                          Friday,
+                          Saturday
                         };
 
     }
